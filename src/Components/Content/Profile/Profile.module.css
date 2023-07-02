@@ -1,0 +1,17 @@
+.content {
+    grid-area: c;
+    background-color: #1A042F;
+}
+.header{
+    width: 100%;
+    height: 200px;
+}
+.avatar{
+    width: 100px;
+    height: 100px;
+}
+
+.avaDiscription {
+    margin-left: 20px;
+    margin-top: 20px;
+}

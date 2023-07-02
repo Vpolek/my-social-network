@@ -1,0 +1,23 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 3fr 10fr;
+}
+
+li {
+    color: white;
+    padding: 15px;
+}
+
+.user {
+    color: white;
+    text-decoration: none;
+}
+
+p {
+    color: white;
+}
+
+.active .user {
+    font-size: x-large;
+    color: gold;
+}
