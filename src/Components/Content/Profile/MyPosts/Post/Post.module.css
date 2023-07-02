@@ -1,11 +1,12 @@
 .posts {
-    padding-bottom: 30px;
+  padding-bottom: 30px;
+  display: block;
 }
 
 img {
-    width: 40px;
-    height: 40px;
+  width: 40px;
+  height: 40px;
 }
 p {
-    color: white;
+  color: white;
 }

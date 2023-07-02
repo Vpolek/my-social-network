@@ -1,16 +1,17 @@
 .navbar {
-    grid-area: n;
-    background-color: #1A042F;
-    padding: 25px;
+  grid-area: n;
+  background-color: #1a042f;
+  padding: 25px;
 }
 .active {
-    color: gold;
-    text-decoration: none;
-    margin: 20px;
+  color: gold;
+  text-decoration: none;
+  margin: 20px;
 }
 .item {
-    color: white;
-    text-decoration: none;
-    margin: 10px;
-    position: relative;
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+  position: relative;
+  display: block;
 }
